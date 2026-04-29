@@ -1,0 +1,3 @@
+C:/Users/nonedev/CLionProjects/untitled1/build/CMakeFiles/t.dir
+C:/Users/nonedev/CLionProjects/untitled1/build/CMakeFiles/edit_cache.dir
+C:/Users/nonedev/CLionProjects/untitled1/build/CMakeFiles/rebuild_cache.dir
