@@ -1,0 +1,5 @@
+"C:\Program Files\JetBrains\CLion 2025.3.2\bin\cmake\win\x64\bin\cmake.exe" "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2025.3.2/bin/ninja/win/x64/ninja.exe" -DCMAKE_TOOLCHAIN_FILE=C:/Users/nonedev/CLionProjects/untitled1/vcpkg/scripts/buildsystems/vcpkg.cmake -G Ninja -S C:\Users\nonedev\CLionProjects\untitled1 -B C:\Users\nonedev\CLionProjects\untitled1\build
+-- Toolchain: C:/Users/nonedev/CLionProjects/untitled1/vcpkg/scripts/buildsystems/vcpkg.cmake
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/nonedev/CLionProjects/untitled1/build

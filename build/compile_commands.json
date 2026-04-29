@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/nonedev/CLionProjects/untitled1/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -D_UNICODE -external:IC:\\Users\\nonedev\\CLionProjects\\untitled1\\vcpkg\\installed\\x64-windows\\lib\\mswu -external:IC:\\Users\\nonedev\\CLionProjects\\untitled1\\vcpkg\\installed\\x64-windows\\include -external:W0 /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od -std:c++17 -MDd -RTC1 -Zi /FoCMakeFiles\\t.dir\\main.cpp.obj /FdCMakeFiles\\t.dir\\ /FS -c C:\\Users\\nonedev\\CLionProjects\\untitled1\\main.cpp",
+  "file": "C:/Users/nonedev/CLionProjects/untitled1/main.cpp",
+  "output": "C:/Users/nonedev/CLionProjects/untitled1/build/CMakeFiles/t.dir/main.cpp.obj"
+}
+]
